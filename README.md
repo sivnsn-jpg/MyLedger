@@ -1,0 +1,2 @@
+# MyLedger
+To manage receipts 
